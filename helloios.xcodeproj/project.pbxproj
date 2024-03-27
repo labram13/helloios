@@ -36,7 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1FCD06C62BB4CF1C0069E32B /* helloios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = helloios.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1FCD06C62BB4CF1C0069E32B /* Hello.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hello.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FCD06C92BB4CF1C0069E32B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1FCD06CB2BB4CF1C0069E32B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		1FCD06CD2BB4CF1C0069E32B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -89,7 +89,7 @@
 		1FCD06C72BB4CF1C0069E32B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1FCD06C62BB4CF1C0069E32B /* helloios.app */,
+				1FCD06C62BB4CF1C0069E32B /* Hello.app */,
 				1FCD06DC2BB4CF1D0069E32B /* helloiosTests.xctest */,
 				1FCD06E62BB4CF1D0069E32B /* helloiosUITests.xctest */,
 			);
@@ -144,7 +144,7 @@
 			);
 			name = helloios;
 			productName = helloios;
-			productReference = 1FCD06C62BB4CF1C0069E32B /* helloios.app */;
+			productReference = 1FCD06C62BB4CF1C0069E32B /* Hello.app */;
 			productType = "com.apple.product-type.application";
 		};
 		1FCD06DB2BB4CF1D0069E32B /* helloiosTests */ = {
@@ -442,6 +442,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = M8Q386HL4N;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = helloios/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -455,7 +456,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.labram.helloios;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Hello;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -469,6 +470,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = M8Q386HL4N;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = helloios/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -482,7 +484,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.labram.helloios;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Hello;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
